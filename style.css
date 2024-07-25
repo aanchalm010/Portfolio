@@ -311,8 +311,8 @@ nav ul li a:hover::after {
 .btn:hover {
     /* background: #ff004f; */
     box-shadow: 0 0 5px #ff004f,
-        0 0 25px #ff004f, 0 0 50px #ff004f,
-        0 0 100px #ff004f, 0 0 200px #ff004f;
+        0 0 20px #ff004f, 0 0 20px #ff004f,
+        0 0 20px #ff004f, 0 0 20px #ff004f;
 }
 
 /* --------------------CONTACT-------------------- */
